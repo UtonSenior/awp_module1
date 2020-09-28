@@ -45,7 +45,7 @@
 
         <h2>
             <?php
-                echo 'Hello World, Welcome to another Lesson in PHP.';
+                echo 'Meditation is KEY...';
             ?>
         </h2>  
 
