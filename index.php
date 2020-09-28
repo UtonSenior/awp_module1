@@ -35,7 +35,6 @@
 
     .styleh button{
         margin-top: 5px; 
-        color: red;
     }
 </style>
 </head>
