@@ -36,6 +36,8 @@
     .styleh button{
         margin-top: 5px; 
         color: green;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 80%;
     }
 </style>
 </head>
