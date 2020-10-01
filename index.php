@@ -29,13 +29,13 @@
         border-left: 1px solid grey;
         border-right: 1px solid grey;
         border-bottom: 1px solid grey;
-
+        
         margin: 15px;
     }
 
     .styleh button{
         margin-top: 5px; 
-        color: blue;
+        color: green;
     }
 </style>
 </head>
@@ -45,7 +45,7 @@
 
         <h2>
             <?php
-                echo 'Hello World, Welcome to another Lesson in PHP.';
+                echo 'Meditation is KEY...';
             ?>
         </h2>  
 
