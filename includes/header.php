@@ -54,6 +54,16 @@
                             <a class="dropdown-item" href="switchstatement.php">Simple Switch Statement</a></a>
                         </div>
                     </li>
+                     <!-- Dropdown -->
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                            Manipulations
+                        </a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="stringmanip.php">Simple String Manipulation</a></a>
+                            <a class="dropdown-item" href="datetimemanip.php">Simple Date/Time Manipulation</a></a>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </nav>        
@@ -61,3 +71,24 @@
         <div class="container top">
 
         <h2 id="follow">Follow each link to the example page</h2>
+
+        <?php 
+    
+            $name = "Uton Senior";
+            $age = 25;
+    
+        ?>
+
+        <div class="row">
+            <div class="col-sm-12 col-md-4 col-lg-3 d-none d-md-block">
+                <div class="card">
+                    <img class="card-img-top" src="images/profile.png" alt="profile" style="width:100%">
+                    <div class="card-body">
+                        <h4 class="card-title" style="text-align:center"><?php echo $name; ?></h4>
+                        <p class="card-text" style="text-align:center"></p>
+                        <div class="text-center">
+                            <a href="#" class="btn btn-info stretched-link">See Profile <i class="fa fa-info-circle"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>

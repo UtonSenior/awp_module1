@@ -1,3 +1,5 @@
+            </div>
+        </div>
         <hr/>
         <p id="bottom"></p>
         </div>
