@@ -16,7 +16,7 @@
             <div class="col-12">
                 <h3>If Statement</h3>
                 <p>
-                    <img src="images/ifstatement1.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/ifstatement1.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>
