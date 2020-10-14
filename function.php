@@ -15,14 +15,14 @@
         <div class="row">
             <div class="col-12">
                 <p>
-                    <img src="images/function1.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/function1.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
                 <p>
-                    <img src="images/function2.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/function2.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>

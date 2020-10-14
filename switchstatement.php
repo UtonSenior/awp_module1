@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-12">
                 <p>
-                    <img src="images/switchcase.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/switchcase.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>

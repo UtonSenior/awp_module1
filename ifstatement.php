@@ -44,7 +44,7 @@
             <div class="col-12">
                 <h3>If Else Statement</h3>
                 <p>
-                    <img src="images/ifstatement2.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/ifstatement2.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>

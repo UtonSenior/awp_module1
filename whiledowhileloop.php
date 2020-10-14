@@ -16,7 +16,7 @@
             <div class="col-12">
                 <h3>While Loop</h3>
                 <p>
-                    <img src="images/whileloop.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/whileloop.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>
@@ -45,7 +45,7 @@
             <div class="col-12">
                 <h3>Do While Loop</h3>
                 <p>
-                    <img src="images/dowhileloop.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/dowhileloop.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>

@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1>Simple PHP Sytax</h1>
-                    <img src="images/simple1.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/simple1.PNG" alt="" class="img-fluid" alt="Responsive image">
                     <br>
                     <?php
                         //Printing in HTML using echo
@@ -29,7 +29,7 @@
             <?php echo '<hr/>'?>
             <div class="row">
                 <div class="col-12">
-                    <img src="images/simple2.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/simple2.PNG" alt="" class="img-fluid" alt="Responsive image">
                     <br>
                     <?php 
                         //Declare variable

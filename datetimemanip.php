@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-12">
                 <p>
-                    <img src="images/datetimemanip.png" alt="" class="img-fluid" alt="Responsive image">
+                    <img src="images/datetimemanip.PNG" alt="" class="img-fluid" alt="Responsive image">
                 </p>
             </div>
         </div>

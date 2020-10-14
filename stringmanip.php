@@ -16,7 +16,7 @@
                 <div class="col-12">
                 <h3>Concatenation of String</h3>
                     <p>
-                        <img src="images/concat.png" alt="" class="img-fluid" alt="Responsive image">
+                        <img src="images/concat.PNG" alt="" class="img-fluid" alt="Responsive image">
                     </p>
                 </div>
             </div>
@@ -41,7 +41,7 @@
                 <div class="col-12">
                     <h3>String Transformation</h3>
                     <p>
-                        <img src="images/stringtrans.png" alt="" class="img-fluid" alt="Responsive image">
+                        <img src="images/stringtrans.PNG" alt="" class="img-fluid" alt="Responsive image">
                     </p>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                 <div class="col-12">
                     <h3>Repeat String or Nesting Funstions</h3>
                     <p>
-                        <img src="images/repeat.png" alt="" class="img-fluid" alt="Responsive image">
+                        <img src="images/repeat.PNG" alt="" class="img-fluid" alt="Responsive image">
                     </p>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                 <div class="col-12">
                     <h3>Get Sub/Position of string</h3>
                     <p>
-                        <img src="images/getsubpos.png" alt="" class="img-fluid" alt="Responsive image">
+                        <img src="images/getsubpos.PNG" alt="" class="img-fluid" alt="Responsive image">
                     </p>
                 </div>
             </div>
@@ -98,7 +98,7 @@
                 <div class="col-12">
                     <h3>Find character or length of a string</h3>
                     <p>
-                        <img src="images/findcharlen.png" alt="" class="img-fluid" alt="Responsive image">
+                        <img src="images/findcharlen.PNG" alt="" class="img-fluid" alt="Responsive image">
                     </p>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                 <div class="col-12">
                     <h3>Trim</h3>
                     <p>
-                        <img src="images/trim.png" alt="" class="img-fluid" alt="Responsive image">
+                        <img src="images/trim.PNG" alt="" class="img-fluid" alt="Responsive image">
                     </p>
                 </div>
             </div>
