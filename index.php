@@ -8,8 +8,7 @@
             <div class="row">
                 <div class="col-12">
                     <h1>Learning PHP is FUN!</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni provident suscipit, earum laudantium alias necessitatibus dicta. Expedita commodi nobis doloribus, asperiores sunt maiores eligendi provident a adipisci laudantium praesentium sequi.</p>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni provident suscipit, earum laudantium alias necessitatibus dicta. Expedita commodi nobis doloribus, asperiores sunt maiores eligendi provident a adipisci laudantium praesentium sequi.</p>
+                    <p>PHP is a widely used server-side programming language that’s become increasingly fast and powerful over the years. PHP works well with HTML and databases, making it a great language for anyone interested in building dynamic web applications. </p>
                 </div>
             </div>
             <div class="row">
