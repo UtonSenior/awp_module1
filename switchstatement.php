@@ -1,4 +1,5 @@
 <?php 
+    $page = 'switchstatement';
     $title = "Switch Statement";
     include "includes/header.php"; 
 ?>
@@ -7,8 +8,9 @@
         <div class="row">
             <div class="col-12">
                 <h1><?php echo $title ?></h1>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                <h5>PHP If…Else Vs Switch…Case</h5>
+                <p>                
+                    The switch-case statement is an alternative to the if-elseif-else statement, which does almost the same thing. The switch-case statement tests a variable against a series of values until it finds a match, and then executes the block of code corresponding to that match.
                 </p>
             </div>
         </div>

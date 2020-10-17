@@ -1,4 +1,5 @@
 <?php 
+    $page = "forloop";
     $title = "For Loops";
     include "includes/header.php"; 
 ?>
@@ -8,7 +9,10 @@
             <div class="col-12">
                 <h1><?php echo $title ?></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                    Loops are used to execute the same block of code again and again, as long as a certain condition is met. The basic idea behind a loop is to automate the repetitive tasks within a program to save the time and effort. PHP supports four different types of loops.
+                </p>
+                <p>
+                    <strong>for</Strong> — loops through a block of code until the counter reaches a specified number.
                 </p>
             </div>
         </div>

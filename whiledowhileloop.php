@@ -1,4 +1,5 @@
 <?php 
+    $page = "whiledowhileloop";
     $title = "While/Do While Loops";
     include "includes/header.php"; 
 ?>
@@ -8,7 +9,13 @@
             <div class="col-12">
                 <h1><?php echo $title ?></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                    Loops are used to execute the same block of code again and again, as long as a certain condition is met. The basic idea behind a loop is to automate the repetitive tasks within a program to save the time and effort. PHP supports four different types of loops.
+                </p>
+                <p>
+                    <strong>while</strong> — loops through a block of code as long as the condition specified evaluates to true.
+                </p>
+                <p>
+                    <strong>do…while</strong> — the block of code executed once and then condition is evaluated. If the condition is true the statement is repeated as long as the specified condition is true.
                 </p>
             </div>
         </div>

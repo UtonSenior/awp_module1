@@ -1,4 +1,5 @@
 <?php 
+    $page = "index";
     $title = "Index";
     include "includes/header.php"; 
 ?>

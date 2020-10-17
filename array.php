@@ -1,4 +1,5 @@
 <?php 
+    $page = "array";
     $title = "Arrays and Printouts";
     include "includes/header.php"; 
 ?>
@@ -7,7 +8,7 @@
             <div class="col-12">
                 <h1><?php echo $title ?></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                    An array is a data structure that stores one or more similar type of values in a single value. For example if you want to store 100 numbers then instead of defining 100 variables its easy to define an array of 100 length.
                 </p>
             </div>
         </div>

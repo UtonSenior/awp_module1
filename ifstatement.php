@@ -1,4 +1,5 @@
 <?php 
+    $page = 'ifstatement';
     $title = "If-Else Statements";
     include "includes/header.php"; 
 ?>
@@ -8,7 +9,21 @@
             <div class="col-12">
                 <h1><?php echo $title ?></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                <h5>PHP Conditional Statements</h5>
+
+                    Like most programming languages, PHP also allows you to write code that perform different actions based on the results of a logical or comparative test conditions at run time. This means, you can create test conditions in the form of expressions that evaluates to either true or false and based on these results you can perform certain actions.  
+                </p>
+                <p>
+                    There are several statements in PHP that you can use to make decisions:
+                </p>
+                <ul>
+                    <li>The if statement</li>
+                    <li>The if...else statement</li>
+                    <li>The if...elseif....else statement</li>
+                    <li>The switch...case statement</li>
+                </ul>
+                <p>
+                    We will explore the first 2 statements in the coming sections.
                 </p>
             </div>
         </div>

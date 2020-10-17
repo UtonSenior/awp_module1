@@ -1,4 +1,5 @@
 <?php 
+    $page = 'stringmanip';
     $title = "String Manipulation";
     include "includes/header.php"; 
 ?>
@@ -8,7 +9,7 @@
                 <div class="col-12">
                     <h1><?php echo $title ?></h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                        PHP provides many built-in functions for manipulating strings like calculating the length of a string, find substrings or characters, replacing part of a string with different characters, take a string apart, and many others. Here are the examples of some of these functions.
                     </p>
                 </div>
             </div>

@@ -15,8 +15,8 @@
 
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
             <!-- Brand/logo -->
-            <a class="navbar-brand" href="index.php">
-                <img src="logo/mylogo.png" alt="Home" style="width:40px;">
+            <a class="navbar-brand mylogo" href="index.php">
+                <img src="logo/mylogo.png" alt="Home" style="width:40px;">PHP-Basic
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
@@ -26,16 +26,16 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
                 <!-- Links -->
                 <ul class="navbar-nav">
-                    <li class="nav-item">
+                    <li class="nav-item <?php if($page == 'array'){ echo 'active'; }?>">
                     <a class="nav-link" href="array.php">Simple Arrays and Printouts</a>
                     </li>
 
-                    <li class="nav-item">
+                    <li class="nav-item <?php if($page == 'function'){ echo 'active'; }?>">
                     <a class="nav-link" href="function.php">Simple Functions</a>
                     </li>
 
                     <!-- Dropdown -->
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown <?php if($page == 'forloop' || $page == 'whiledowhileloop'){ echo 'active'; }?>">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                             Loops <i class="fa fa-circle-notch"></i>
                         </a>
@@ -45,7 +45,7 @@
                         </div>
                     </li>
                     <!-- Dropdown -->
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown <?php if($page == 'ifstatement' || $page == 'switchstatement'){ echo 'active'; }?>">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                             Statements
                         </a>
@@ -55,7 +55,7 @@
                         </div>
                     </li>
                      <!-- Dropdown -->
-                     <li class="nav-item dropdown">
+                     <li class="nav-item dropdown <?php if($page == 'stringmanip' || $page == 'datetimemanip'){ echo 'active'; }?>">
                         <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                             Manipulations
                         </a>
@@ -70,12 +70,11 @@
         
         <div class="container top">
 
-        <h2 id="follow">Follow each link to the example page</h2>
+        <h6 id="follow" style="color:red; font-size:15px;">Follow each link to the example page.</h6>
 
         <?php 
     
             $name = "Uton Senior";
-            $age = 25;
     
         ?>
 

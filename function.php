@@ -1,4 +1,5 @@
 <?php 
+    $page = "function";
     $title = "Functions";
     include "includes/header.php"; 
 ?>
@@ -8,7 +9,9 @@
             <div class="col-12">
                 <h1><?php echo $title ?></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                    PHP functions are similar to other programming languages. A function is a piece 
+                    of code which takes one more input in the form of parameter and does some processing 
+                    and returns a value.
                 </p>
             </div>
         </div>

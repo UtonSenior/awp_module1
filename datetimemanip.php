@@ -1,4 +1,5 @@
 <?php 
+    $page = 'datetimemanip';
     $title = "Date and Time Manipulation";
     include "includes/header.php"; 
 ?>
@@ -8,7 +9,13 @@
             <div class="col-12">
                 <h1><?php echo $title ?></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, enim magni. Accusamus et suscipit culpa enim iusto nisi? Excepturi officia fugit amet illum impedit beatae est dolore sint incidunt odio.
+                    PHP DateTime represents the date and time, below we will reveal the ways you can add and format date and time using PHP.
+                </p>
+                <p>
+                    The functions for date manipulation are most widely used when designing websites or executing certain SQL queries. PHP current date might be displayed at the top of the page. Every entry can be dated and every comment marked with the exact time. In PHP time and date are easy to set, as there are inbuilt functions for that.
+                </p>
+                <p>
+                    When working with the functions to receive PHP DateTime, remember to pay attention to the usual time inconsistencies that affect your local server. Don't forget about different timezones, daylight savings, or leap years.
                 </p>
             </div>
         </div>
